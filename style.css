@@ -1,0 +1,28 @@
+body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8ff;
+      text-align: center;
+      padding: 20px;
+    }
+    .subject-box {
+      display: inline-block;
+      margin: 15px;
+    }
+    .grade {
+      font-size: 24px;
+      color: #333;
+    }
+    .button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #00a8cc;
+      color: white;
+      border: none;
+      font-size: 16px;
+      cursor: pointer;
+    }
+h5 {
+  margin-top: 20px;
+  font-size: 14px;
+  color: gray;
+}
